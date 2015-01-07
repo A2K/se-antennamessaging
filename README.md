@@ -1,5 +1,8 @@
 This mod allows to send chat messages and notifications from Programmable Blocks.
 
+You can install it from Steam Workshop:
+http://steamcommunity.com/sharedfiles/filedetails/?id=370953838
+
 Simply place an Antenna on the same grid with your Programmable block, then add this to the beginning of your script:
 ```c#
 const string TRANSMISSION_BEGIN_MARKER = ".~:/{{["; 
